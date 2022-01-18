@@ -1,6 +1,6 @@
 number = int(input ("Enter the number of your choice: "))
 
 if (number % 2) == 0:
-   print("{0} is Even".format(number))
+   print(number," is Even")
 else:
-   print("{0} is Odd".format(number))
+   print(number, " is Odd")
