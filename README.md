@@ -1,5 +1,5 @@
 # Control-Flow-1-If-Else
-# Write a python program to solve the questions.
+### Write a python program to solve the questions.
 
 1. Write a program to check whether a person is eligible for voting or not. (accept age from user)
 2. Write a program to check whether a number entered by user is even or odd.
