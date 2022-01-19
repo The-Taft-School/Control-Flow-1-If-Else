@@ -1,5 +1,8 @@
-a=(int(input("Enter your age")))
+a=(int(input("Enter your age ")))
+
+print("Are you eligible to vote?")
+
 if a >= 18:
-    print("true")
+    print("Yes")
 else:
-    print("false")
+    print("No")
