@@ -1,6 +1,6 @@
 print("Is the last digit of your number divisible by three?")
 
-a=(int(input("Enter a multidigit number ")))
+a = (int(input("Enter a multidigit number ")))
 
 b = a % 10
 if b % 3 == 0:
