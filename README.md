@@ -27,3 +27,26 @@ git push </br>
 
 Update repository </br>
 git pull </br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rachel Turer 
